@@ -2,7 +2,9 @@
 title: 利用Typora实现在Hexo平台发布博文时快速自动的插入图片
 typora-copy-images-to: 利用Typora实现在Hexo平台发布博文时快速自动的插入图片
 date: 2018-08-11 01:10:31
-tags:
+tags: 
+- Hexo
+- Typora
 ---
 
 ## 开启post_asset_folder选项
