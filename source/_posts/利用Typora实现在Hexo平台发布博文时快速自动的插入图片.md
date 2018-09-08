@@ -5,6 +5,7 @@ date: 2018-08-11 01:10:31
 tags: 
 - Hexo
 - Typora
+categories: 工具
 ---
 
 ## 开启post_asset_folder选项
